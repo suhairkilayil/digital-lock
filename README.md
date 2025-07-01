@@ -46,9 +46,10 @@ digital-lock/
 
 ## 👨‍💻 Contributors
 
-- Padmapriya J (NSS22EC090)  
-- Suhair K (NSS22EC118)
+- Padmapriya J 
+- Suhair K 
 
+  ECE| NSS College of Engineering,palakkad
 ---
 
 ## 📄 License
