@@ -1,0 +1,36 @@
+# Simulation files
+*.vcd
+*.wdb
+*.log
+*.jou
+*.pb
+*.str
+*.rpt
+*.svf
+*.vhw
+*.mif
+*.lso
+
+# Vivado-specific
+vivado.*
+.cache/
+.hw/
+.sim/
+.xpr/
+*.runs/
+*.ip_user_files/
+*.Xil/
+*.vivado
+
+# Temporary/system files
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.idea/
+ ​:contentReference[oaicite:0]{index=0}​
